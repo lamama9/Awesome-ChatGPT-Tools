@@ -124,7 +124,7 @@ A curated list of awesome tools powered by ChatGPT or ChatGPT APIs, organized by
 
 ## Real Estate 🏡
 
-## Productivity ⏰
+## Productivity ⏰  ### ChatSequel - **URL:** https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj - **Platform:** Chrome extension - **Use Case:** Productivity - **Tags:** ChatGPT, browser productivity, long conversations - **Description:** Free Chrome extension for configurable ChatGPT response continuation, per-tab controls, countdown and context handoff. Publisher: Prax9; not affiliated with OpenAI.
 
 ## Personal Finance 💰
 
